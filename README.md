@@ -19,4 +19,3 @@ The goal of this project is to leverage the T5 model's capabilities for text gen
 *   Python 3.7+
 *   PyTorch
 *   Transformers library
-*   (List other dependencies from `requirements.txt`)
